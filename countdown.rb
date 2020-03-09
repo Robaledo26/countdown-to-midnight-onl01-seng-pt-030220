@@ -14,7 +14,11 @@ return "HAPPy NEW YEAR!"
 end
 
 def counter_with_sleep(seconds)
-  while seconds > 10outs "#{seconds} SECONDS(s)"
+  while seconds > 10
+  puts "#{seconds} SECONDS(S)"
   sleep(1)
-  seconds(1)
+  seconds -= 
+end
+return "HAPPY NEW YEAR"
+end
   
