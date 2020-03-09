@@ -5,7 +5,6 @@
 #ACTION --> puts out number of seconds left for each loop --. none, is a puts  -->
 
 def countdown(seconds)
-
  while seconds > 0 
   puts "#{seconds} seconds(s)!"
   seconds -= 10
